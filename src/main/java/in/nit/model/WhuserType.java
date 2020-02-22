@@ -10,6 +10,7 @@ import javax.persistence.Table;
 @Table(name="WHUSERTYPE")
 public class WhuserType 
 {
+	//vikas is my name 
 	@Id
 	@Column(name="id")
 	@GeneratedValue
