@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>WELCOME TO HOME PAGE</h3>
+<h3>WELCOME TO Vikas PAGE</h3>
 USERTYPE YTPE:
 <input type ="radio"name="utype" value="vendor">vendor
 <input type ="radio"name="utype" value="customer">customer:
